@@ -9,6 +9,7 @@ Custom Software Development: Tailored software solutions designed to meet your s
 Web & Mobile App Development: End-to-end development of web and mobile applications for various industries.
 DevOps & Cloud Services: Ensuring smooth integration and deployment pipelines with modern DevOps practices.
 API Integration & Automation: Helping businesses streamline processes through seamless API integrations and automation tools.
+
 🛠️ Tech Stack
 Our expertise spans a broad range of technologies:
 
@@ -17,6 +18,7 @@ Backend: Node.js, Python (Django, Flask), Java (Spring Boot), Ruby on Rails
 Databases: PostgreSQL, MongoDB, MySQL, Redis
 DevOps: Docker, Kubernetes, Jenkins, AWS, Azure, GCP
 Version Control: Git, GitHub, GitLab
+
 🌍 Our Mission
 At Giolabs, our mission is to transform your vision into reality through advanced software solutions. We believe in building lasting relationships with our clients by delivering reliable, scalable, and impactful technology.
 
@@ -24,4 +26,5 @@ At Giolabs, our mission is to transform your vision into reality through advance
 If you're looking for a trusted partner to develop software or streamline your technology processes, feel free to reach out! We’re open to new projects, collaborations, and discussions.
 
 📫 Contact us: info@giolabs.com
+
 🌐 Website: www.giolabs.com
